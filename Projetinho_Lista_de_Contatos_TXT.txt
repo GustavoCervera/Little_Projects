@@ -1,0 +1,1 @@
+{"ana": ["12345678", "ana@gmail.com", "feminino"], "bob": ["87654321", "bob@hotmail.com", "masculino"], "diane": ["86421357", "diane@bol.com", "feminino"], "felucia": ["69696969", "felucia@xmail.com", "feminino"]}
